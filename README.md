@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **Iniciando no mundo da programação, apaixonado por tecnologias de desenvolvimento front-end e back-end.**
-
-- 📫 How to reach me **wandsony@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/wandsony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wandsony" height="30" width="40" /></a>
@@ -23,6 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wandsony&show_icons=true&locale=en&layout=compact" alt="wandsony" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wandsony&show_icons=true&locale=en" alt="wandsony" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wandsony&" alt="wandsony" /></p>
 
